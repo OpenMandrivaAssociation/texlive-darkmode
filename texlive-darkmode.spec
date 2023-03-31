@@ -1,6 +1,6 @@
 Name:		texlive-darkmode
 Version:	64271
-Release:	1
+Release:	2
 Summary:	General Dark Mode Support for LaTeX-Documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/darkmode
