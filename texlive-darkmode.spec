@@ -3,7 +3,7 @@ Version:	64271
 Release:	2
 Summary:	General Dark Mode Support for LaTeX-Documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/darkmode
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/darkmode
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/darkmode.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/darkmode.doc.r%{version}.tar.xz
